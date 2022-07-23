@@ -1,4 +1,23 @@
-# StarWars 88B Droid | Pure CSS
+# StarWars B-88 Droid | Pure CSS
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/rembertdesigns/pen/rNYRwOG](https://codepen.io/rembertdesigns/pen/rNYRwOG).
 
+If you liked this repo, make sure to follow me on [Twitter](https://twitter.com/RembertDesigns) where I post daily about Tech related things!
+
+### 🌎 Let's Connect
+
+- [Portfolio](https://www.rembertdesigns.co/)
+
+- [Twitter](https://twitter.com/RembertDesigns)
+
+- [LinkedIn](https://www.linkedin.com/in/rrembert/)
+
+- [Hashnode](https://rembertdesigns.hashnode.dev/)
+
+- [Devto](https://dev.to/rembertdesigns)
+
+- [Medium](https://medium.com/@rembertdesigns)
+
+- [Github](https://github.com/rembertdesigns)
+
+- [Codepen](https://codepen.io/rembertdesigns)
